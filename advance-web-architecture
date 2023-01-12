@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T04:21:19.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="JFGl0mQOy40cnLgFzF4r" type="github"><diagram id="HdN0cPAJA2BRAeRUZ3Fw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-12T00:27:40.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="6A5R2maS3Erxsr3xkV9t" type="github">
+  <diagram id="2K7Dlz4LXN2ouJOP9YTR" name="Page-1">
+    <mxGraphModel dx="932" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LkxYIGm64T4u3btjDtIg-16" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;strokeColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LkxYIGm64T4u3btjDtIg-15" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;strokeColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LkxYIGm64T4u3btjDtIg-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LkxYIGm64T4u3btjDtIg-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_edge_and_load_balancer;" vertex="1" parent="1">
+          <mxGeometry x="332.06" y="217.43" width="45.87" height="37.15" as="geometry" />
+        </mxCell>
+        <mxCell id="LkxYIGm64T4u3btjDtIg-17" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.dns;" vertex="1" parent="1">
+          <mxGeometry x="203.5" y="214.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="LkxYIGm64T4u3btjDtIg-18" value="DNS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="262" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkxYIGm64T4u3btjDtIg-19" value="Load Balancer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="257.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
